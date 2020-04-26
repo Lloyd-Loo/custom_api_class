@@ -1,6 +1,6 @@
 # custom_api_class
 
-A new Flutter project.
+An implemantation of a custom class to query and recieve HTTP requests
 
 ## Getting Started
 
